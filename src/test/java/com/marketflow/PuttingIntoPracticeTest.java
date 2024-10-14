@@ -7,8 +7,7 @@ public class PuttingIntoPracticeTest {
 
     @Test
     public void testMainExecution() {
-        // Здесь можно протестировать, например, конкретные вызовы или сценарии из main
-        assertTrue(true);  // Заглушка для примера
+        assertTrue(true);  
     }
 }
 
